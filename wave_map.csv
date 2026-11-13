@@ -1,0 +1,465 @@
+wave,name,source,gm_bank,gm_program,key,confidence,note
+1,OldUprit1,gm,0,3,,high,
+2,OldUprit2,gm,0,3,,high,
+3,Gr. Piano,gm,0,0,,high,
+4,WidPiano,gm,0,1,,high,
+5,Br. Piano,gm,0,1,,high,
+6,Hnkytonk1,gm,0,3,,high,
+7,E.Grand 1,gm,0,2,,high,
+8,Hnkytonk2,gm,0,3,,high,
+9,E.Grand 2,gm,0,2,,high,
+10,E.Grand 3,gm,0,2,,high,
+11,Metallic1,gm,0,93,,high,
+12,E.Piano 1,gm,0,4,,high,
+13,60's EP,gm,0,4,,high,
+14,E.Piano 2,gm,0,4,,high,
+15,E.Piano 3,gm,0,4,,high,
+16,E.Piano 4,gm,0,4,,high,
+17,Clavi 1,gm,0,7,,high,
+18,Drawbar 1,gm,0,16,,high,
+19,Drawbar 2,gm,0,16,,high,
+20,DetunOrg1,gm,0,16,,high,
+21,Drawbar 3,gm,0,16,,high,
+22,PercOrg 1,gm,0,17,,high,
+23,PercOrg 2,gm,0,17,,high,
+24,ChrcOrg 1,gm,0,19,,high,
+25,ChrcOrg 2,gm,0,19,,high,
+26,Celesta 1,gm,0,8,,high,
+27,Vibe,gm,0,11,,high,
+28,Glocken 1,gm,0,9,,high,
+29,Marimba,gm,0,12,,high,
+30,Glocken 2,gm,0,9,,high,
+31,NewAge 1,gm,0,88,,high,
+32,Xylophone,gm,0,13,,high,
+33,TubulBell,gm,0,14,,high,
+34,Stl Drum,none,,,,none,no GM equivalent found
+35,Timpani 1,gm,0,47,,high,
+36,CncertBD1,gm,0,47,,high,
+37,NylonGt 1,gm,0,24,,high,
+38,Ukulele,gm,0,24,,high,
+39,NylonGt 2,gm,0,24,,high,
+40,Nyln + Sd,gm,0,24,,high,
+41,Atmosphr1,gm,0,99,,high,
+42,SteelGt 1,gm,0,25,,high,
+43,Sci-Fi 1,gm,0,103,,high,
+44,Mandolin1,gm,0,25,,high,
+45,Mandolin2,gm,0,25,,high,
+46,SteelGt 2,gm,0,25,,high,
+47,12strGtr1,gm,0,25,,high,
+48,12strGtr2,gm,0,25,,high,
+49,Dulcimer1,gm,0,15,,high,
+50,JazzGtr 1,gm,0,26,,high,
+51,CleanGtr1,gm,0,27,,high,
+52,Hi.E.Gtr1,gm,0,27,,high,
+53,ChorusGt,gm,0,27,,high,
+54,TubeBass1,gm,0,33,,high,
+55,CleanGtr2,gm,0,27,,high,
+56,Hi.E.Gtr2,gm,0,27,,high,
+57,MuteGtr 1,gm,0,28,,high,
+58,OvrDrive1,gm,0,29,,high,
+59,ResO.D. 1,gm,0,29,,high,
+60,OvrDrive2,gm,0,29,,high,
+61,ResO.D. 2,gm,0,29,,high,
+62,Distorted,gm,0,30,,high,
+63,Charang 1,gm,0,84,,high,
+64,Charang 2,gm,0,84,,high,
+65,FeedbkGt1,gm,0,30,,high,
+66,PowerGtr1,gm,0,30,,high,
+67,Res.Dist,gm,0,30,,high,
+68,RockOrgn1,gm,0,18,,high,
+69,PowerGtr2,gm,0,30,,high,
+70,Harmonics,gm,0,31,,high,
+71,Dulcimer2,gm,0,15,,high,
+72,Banjo,gm,0,105,,high,
+73,Sitar,gm,0,104,,high,
+74,Shamisen,gm,0,106,,high,
+75,Koto,gm,0,107,,high,
+76,TaishoKt1,gm,0,107,,high,
+77,TaishoKt2,gm,0,107,,high,
+78,Harp 1,gm,0,46,,high,
+79,Harp 2,gm,0,46,,high,
+80,Ac.Bass 1,gm,0,32,,high,
+81,Ac.Bass 2,gm,0,32,,high,
+82,Ac.Bass 3,gm,0,32,,high,
+83,FngBass 1,gm,0,33,,high,
+84,Ac.Bass 4,gm,0,32,,high,
+85,FngBass 2,gm,0,33,,high,
+86,TubeBass2,gm,0,33,,high,
+87,PickBass1,gm,0,34,,high,
+88,MutePlck1,gm,0,34,,high,
+89,PickBass2,gm,0,34,,high,
+90,MutePlck2,gm,0,34,,high,
+91,Fretless,gm,0,35,,high,
+92,SlapBass1,gm,0,36,,high,
+93,FunkGtr 1,gm,0,27,,high,
+94,FunkGtr 2,gm,0,27,,high,
+95,SlapBass2,gm,0,36,,high,
+96,SlapBass3,gm,0,37,,high,
+97,SlapBass4,gm,0,37,,high,
+98,SynBass 1,gm,0,38,,high,
+99,SynBass 2,gm,0,38,,high,
+100,SynBass 3,gm,0,38,,high,
+101,SynBass 4,gm,0,38,,high,
+102,HouseBas1,gm,0,39,,high,
+103,HouseBas2,gm,0,39,,high,
+104,SynBass 5,gm,0,38,,high,
+105,Violin,gm,0,40,,high,
+106,Fiddle,gm,0,110,,high,
+107,SlwVioln,gm,0,40,,high,
+108,Viola,gm,0,41,,high,
+109,Cello,gm,0,42,,high,
+110,Contra 1,gm,0,43,,high,
+111,Contra 2,gm,0,43,,high,
+112,Strings 1,gm,0,48,,high,
+113,Strings 2,gm,0,48,,high,
+114,Orchstra1,gm,0,48,,high,
+115,Strings 3,gm,0,49,,high,
+116,Strings 4,gm,0,49,,high,
+117,Bright 1,gm,0,100,,high,
+118,Atmosphr2,gm,0,99,,high,
+119,Sweep 1,gm,0,95,,high,
+120,Pizzicto1,gm,0,45,,high,
+121,Pizzicto2,gm,0,45,,high,
+122,SynStrg 1,gm,0,50,,high,
+123,SynBras 1,gm,0,62,,high,
+124,SynStrg 2,gm,0,50,,high,
+125,Poly Syn1,gm,0,90,,high,
+126,Rain 1,gm,0,96,,high,
+127,Soundtrk1,gm,0,97,,high,
+128,Soundtrk2,gm,0,97,,high,
+129,SynBass 5,gm,0,38,,high,
+130,SynStrg 3,gm,0,51,,high,
+131,SynStrg 4,gm,0,51,,high,
+132,SynBras 2,gm,0,62,,high,
+133,SynBras 3,gm,0,63,,high,
+134,Chiff 1,gm,0,83,,high,
+135,Fifth 1,gm,0,86,,high,
+136,Fifth 2,gm,0,86,,high,
+137,Metallic2,gm,0,93,,high,
+138,Sci-Fi 2,gm,0,103,,high,
+139,ChorAah 1,gm,0,52,,high,
+140,Voice 1,gm,0,54,,high,
+141,Halo Pad1,gm,0,94,,high,
+142,Echoes,gm,0,102,,high,
+143,ChorAah 2,gm,0,52,,high,
+144,ChorAah 3,gm,0,52,,high,
+145,Sweep 2,gm,0,95,,high,
+146,RockOrgn2,gm,0,18,,high,
+147,Choir 1,gm,0,91,,high,
+148,Halo Pad2,gm,0,94,,high,
+149,Chiff 2,gm,0,83,,high,
+150,Bright 2,gm,0,100,,high,
+151,Voi Oah!,gm,0,53,,high,
+152,SynVoice,gm,0,54,,high,
+153,NewAge 2,gm,0,88,,high,
+154,Choir 2,gm,0,91,,high,
+155,Goblns 1,gm,0,101,,high,
+156,Voi Ooh 2,gm,0,53,,high,
+157,Orchstra2,gm,0,48,,high,
+158,Oct.Bras1,gm,0,61,,high,
+159,BrasSect1,gm,0,61,,high,
+160,Brass 1,gm,0,61,,high,
+161,Oct.Bras2,gm,0,61,,high,
+162,OrchHit 1,gm,0,55,,high,
+163,OrchHit 2,gm,0,55,,high,
+164,WarmTrmp,gm,0,56,,high,
+165,Trumpet,gm,0,56,,high,
+166,Tuba 1,gm,0,58,,high,
+167,DublBone,gm,0,57,,high,
+168,Tuba 2,gm,0,58,,high,
+169,TromBone,gm,0,57,,high,
+170,BrasSect2,gm,0,61,,high,
+171,Mute Tp,gm,0,59,,high,
+172,FrenchHr1,gm,0,60,,high,
+173,FrenchHr2,gm,0,60,,high,
+174,SprnoSax,gm,0,64,,high,
+175,Bassoon 1,gm,0,70,,high,
+176,AltoSax 1,gm,0,65,,high,
+177,AltoSax 2,gm,0,65,,high,
+178,TenorSax1,gm,0,66,,high,
+179,BrthTenr1,gm,0,66,,high,
+180,Brass 2,gm,0,61,,high,
+181,Bari Sax,gm,0,67,,high,
+182,EnglHorn,gm,0,69,,high,
+183,Bassoon 2,gm,0,70,,high,
+184,Oboe,gm,0,68,,high,
+185,Winds 1,gm,0,73,,high,
+186,Winds 2,gm,0,73,,high,
+187,Shanai 1,gm,0,111,,high,
+188,Bag Pipe1,gm,0,109,,high,
+189,Clarinet,gm,0,71,,high,
+190,Winds 3,gm,0,73,,high,
+191,Flute 1,gm,0,73,,high,
+192,Winds 4,gm,0,73,,high,
+193,Calliope1,gm,0,82,,high,
+194,Flute 2,gm,0,73,,high,
+195,Piccolo 1,gm,0,72,,high,
+196,PanFlute1,gm,0,75,,high,
+197,Bottle,gm,0,76,,high,
+198,Calliope2,gm,0,82,,high,
+199,Voice 2,gm,0,54,,high,
+200,Shakhach,gm,0,77,,high,
+201,Kalimba 1,gm,0,108,,high,
+202,Agogo,gm,0,113,,high,
+203,WoodBlock,gm,0,115,,high,
+204,Melo.Tom,gm,0,117,,high,
+205,Syn.Drum,gm,0,118,,high,
+206,E.Percus,none,,,,none,no GM equivalent found
+207,Scratch,none,,,,none,no GM equivalent found
+208,E.Tom 1,none,,,,none,no GM equivalent found
+209,E.Tom 2,none,,,,none,no GM equivalent found
+210,Castanet,none,,,,none,no GM equivalent found
+211,TaikoDrm,gm,0,116,,high,
+212,RevCymb 1,gm,0,119,,high,
+213,WndChime,gm,0,112,,high,
+214,BrthNoize,gm,0,121,,high,
+215,Flute 3,gm,0,73,,high,
+216,Recorder1,gm,0,74,,high,
+217,PanFlute2,gm,0,75,,high,
+218,Ocarina 1,gm,0,79,,high,
+219,Flute 4,gm,0,73,,high,
+220,DrawBar 4,gm,0,16,,high,
+221,Piccolo 2,gm,0,72,,high,
+222,TenorSax2,gm,0,66,,high,
+223,BrthTenr2,gm,0,66,,high,
+224,Seashore,gm,0,122,,high,
+225,Wind,gm,0,122,,high,
+226,FretNoize,gm,0,120,,high,
+227,GtCtNoiz1,gm,0,120,,high,
+228,GtCtNoiz2,gm,0,120,,high,
+229,StrgSlap,gm,0,120,,high,
+230,Rain 2,gm,0,96,,high,
+231,Thunder,none,,,,none,no GM equivalent found
+232,Stream 1,none,,,,none,no GM equivalent found
+233,Stream 2,none,,,,none,no GM equivalent found
+234,Bubble,none,,,,none,no GM equivalent found
+235,Bird 1,gm,0,123,,high,
+236,Bird 2,gm,0,123,,high,
+237,Dog,none,,,,none,no GM equivalent found
+238,HorseGalp,none,,,,none,no GM equivalent found
+239,Tel 1,gm,0,124,,high,
+240,DoorCreak,none,,,,none,no GM equivalent found
+241,Door,none,,,,none,no GM equivalent found
+242,Helicoptr,gm,0,125,,high,
+243,CarEngine,none,,,,none,no GM equivalent found
+244,CarStop,none,,,,none,no GM equivalent found
+245,CarPass,none,,,,none,no GM equivalent found
+246,CarCrash,none,,,,none,no GM equivalent found
+247,Siren,none,,,,none,no GM equivalent found
+248,Train,none,,,,none,no GM equivalent found
+249,JetPlane,none,,,,none,no GM equivalent found
+250,StarShip,none,,,,none,no GM equivalent found
+251,Applause1,gm,0,126,,high,
+252,Applause2,gm,0,126,,high,
+253,Laughing,none,,,,none,no GM equivalent found
+254,Screaming,none,,,,none,no GM equivalent found
+255,Punch,none,,,,none,no GM equivalent found
+256,HeartBeat,none,,,,none,no GM equivalent found
+257,FootStep,none,,,,none,no GM equivalent found
+258,Gun,gm,0,127,,high,
+259,MachinGun,gm,0,127,,high,
+260,LaserGun,gm,0,127,,high,
+261,Explosion,gm,0,127,,high,
+262,Omni 1,none,,,,none,no GM equivalent found
+263,Omni 2,none,,,,none,no GM equivalent found
+264,Rain 3,gm,0,96,,high,
+265,MuteGtr 2,gm,0,28,,high,
+266,MusicBox1,gm,0,10,,high,
+267,Sine,gen,,,,high,sine
+268,Bowed 1,gm,0,92,,high,
+269,ConcrtBD2,gm,0,47,,high,
+270,FngBass 3,gm,0,33,,high,
+271,FeedbkGt2,gm,0,30,,high,
+272,Timpani 2,gm,0,47,,high,
+273,SawLead 1,gm,0,81,,high,
+274,Dr.Solo 1,gm,0,81,,high,
+275,Dr.Solo 2,gm,0,81,,high,
+276,SawLead 2,gm,0,81,,high,
+277,DistClav1,gm,0,7,,high,
+278,DistClav2,gm,0,7,,high,
+279,DstSawLd1,gm,0,81,,high,
+280,DstSawLd2,gm,0,81,,high,
+281,Bass&Ld 1,gm,0,87,,high,
+282,Bass&Ld 2,gm,0,87,,high,
+283,Poly Syn2,gm,0,90,,high,
+284,SawLead 3,gm,0,81,,high,
+285,SquarLd 1,gm,0,80,,high,
+286,SquarLd 2,gm,0,80,,high,
+287,SquarLd 3,gm,0,80,,high,
+288,SquarLd 4,gm,0,80,,high,
+289,Dist.Sqr1,gm,0,80,,high,
+290,Dist.Sqr2,gm,0,80,,high,
+291,E.Piano 5,gm,0,5,,high,
+292,E.Piano 6,gm,0,5,,high,
+293,E.Piano 7,gm,0,5,,high,
+294,Clavi 2,gm,0,7,,high,
+295,Hrpschrd1,gm,0,6,,high,
+296,Hrpschrd2,gm,0,6,,high,
+297,PercOrg 3,gm,0,17,,high,
+298,Drawbar 5,gm,0,16,,high,
+299,DetunOr 2,gm,0,16,,high,
+300,DetunOr 3,gm,0,16,,high,
+301,60's Org,gm,0,17,,high,
+302,CheseOrg,gm,0,17,,high,
+303,PercOrg 4,gm,0,17,,high,
+304,ChrcOrg 3,gm,0,19,,high,
+305,ReedOrgn1,gm,0,20,,high,
+306,ReedOrgn2,gm,0,20,,high,
+307,Accord. 1,gm,0,21,,high,
+308,Accord. 2,gm,0,21,,high,
+309,Accord. 3,gm,0,21,,high,
+310,Accord. 4,gm,0,21,,high,
+311,TangoAcd1,gm,0,21,,high,
+312,TangoAcd2,gm,0,21,,high,
+313,Harmonica,gm,0,22,,high,
+314,Celesta 2,gm,0,8,,high,
+315,MusicBox2,gm,0,10,,high,
+316,Crystal 1,gm,0,98,,high,
+317,Crystal 2,gm,0,98,,high,
+318,Kalimba 2,gm,0,108,,high,
+319,TnklBell1,gm,0,112,,high,
+320,TnklBell2,gm,0,112,,high,
+321,JazzGtr 2,gm,0,26,,high,
+322,MelowGt 1,gm,0,26,,high,
+323,Hawaiian,gm,0,25,,high,
+324,MelowGt 2,gm,0,26,,high,
+325,SynBass 6,gm,0,38,,high,
+326,SynBass 7,gm,0,38,,high,
+327,SynBass 8,gm,0,38,,high,
+328,SynBras 4,gm,0,63,,high,
+329,SynBras 5,gm,0,63,,high,
+330,Warm 1,gm,0,89,,high,
+331,Warm 2,gm,0,89,,high,
+332,Bowed 2,gm,0,92,,high,
+333,Sweep 3,gm,0,95,,high,
+334,Sweep 4,gm,0,95,,high,
+335,Goblns 2,gm,0,101,,high,
+336,Whistle 1,gm,0,78,,high,
+337,Whistle 2,gm,0,78,,high,
+338,Ocarina 2,gm,0,79,,high,
+339,Recorder2,gm,0,74,,high,
+340,Bag Pipe2,gm,0,109,,high,
+341,Shanai 2,gm,0,111,,high,
+342,Piano Noise Attack,gen,,,,low,noise/loop texture: synthesise
+343,EP Noise Attack,gen,,,,low,noise/loop texture: synthesise
+344,Percus Noise Attack,gen,,,,low,noise/loop texture: synthesise
+345,Dist Gtr Noise Attack,gen,,,,low,noise/loop texture: synthesise
+346,Orch Noise Attack,gen,,,,low,noise/loop texture: synthesise
+347,Flanged Noise Attack,gen,,,,low,noise/loop texture: synthesise
+348,Saw Noise Attack,gen,,,,low,noise/loop texture: synthesise
+349,Zipper Noise Attack,gen,,,,low,noise/loop texture: synthesise
+350,Organ Noise Lp,gen,,,,low,noise/loop texture: synthesise
+351,Voilin Noise Lp,gen,,,,low,noise/loop texture: synthesise
+352,Crystal Noise Lp,gen,,,,low,noise/loop texture: synthesise
+353,Sax Breath Lp,gen,,,,low,noise/loop texture: synthesise
+354,Panflute Noise Lp,gen,,,,low,noise/loop texture: synthesise
+355,Pipe Noise Lp,gen,,,,low,noise/loop texture: synthesise
+356,Saw Noise Lp,gen,,,,low,noise/loop texture: synthesise
+357,Gorgo Noise Lp,gen,,,,low,noise/loop texture: synthesise
+358,Enhancer Noise Lp,gen,,,,low,noise/loop texture: synthesise
+359,Tabla Spect Noise Lp,gen,,,,low,noise/loop texture: synthesise
+360,Cave Spect Noise Lp,gen,,,,low,noise/loop texture: synthesise
+361,White Noise Lp,gen,,,,high,white noise
+362,Clavi Attack,none,,,,low,short attack transient: pick from GM or record later
+363,Digi EP Attack,none,,,,low,short attack transient: pick from GM or record later
+364,Glocken Attack,none,,,,low,short attack transient: pick from GM or record later
+365,Vibe Attack,none,,,,low,short attack transient: pick from GM or record later
+366,Marimba Attack,none,,,,low,short attack transient: pick from GM or record later
+367,Org Key Click,none,,,,none,no equivalent
+368,Slap Bass Attack,none,,,,low,short attack transient: pick from GM or record later
+369,Folk Gtr Attack,none,,,,low,short attack transient: pick from GM or record later
+370,Gut Gtr Attack,none,,,,low,short attack transient: pick from GM or record later
+371,Dist Gtr Attack,none,,,,low,short attack transient: pick from GM or record later
+372,Clean Gtr Attack,none,,,,low,short attack transient: pick from GM or record later
+373,Muted Gtr Attack,none,,,,low,short attack transient: pick from GM or record later
+374,Cello & Violin Attack,none,,,,low,short attack transient: pick from GM or record later
+375,Pizz Violin Attack,none,,,,low,short attack transient: pick from GM or record later
+376,Pizz Double Bass Attack,none,,,,low,short attack transient: pick from GM or record later
+377,Doo Attack,none,,,,low,short attack transient: pick from GM or record later
+378,Trombone Attack,none,,,,low,short attack transient: pick from GM or record later
+379,Brass Attack,none,,,,low,short attack transient: pick from GM or record later
+380,F.Horn1 Attack,none,,,,low,short attack transient: pick from GM or record later
+381,F.Horn2 Attack,none,,,,low,short attack transient: pick from GM or record later
+382,Flute Attack,none,,,,low,short attack transient: pick from GM or record later
+383,T.Sax Attack,none,,,,low,short attack transient: pick from GM or record later
+384,Shamisen Attack,none,,,,low,short attack transient: pick from GM or record later
+385,Voltage Attack,none,,,,low,short attack transient: pick from GM or record later
+386,BBDigi Attack,none,,,,low,short attack transient: pick from GM or record later
+387,BBEP Attack,none,,,,low,short attack transient: pick from GM or record later
+388,BBBlip Attack,none,,,,low,short attack transient: pick from GM or record later
+389,Techno Hit Attack,none,,,,low,short attack transient: pick from GM or record later
+390,Techno Attack,none,,,,low,short attack transient: pick from GM or record later
+391,X-Piano Attack,none,,,,low,short attack transient: pick from GM or record later
+392,Noisy Voise Lp,gm,0,91,,low,Noisy Voise Lp: nearest GM voice (Choir pad); the real wave is a noisy voice loop
+393,Noisy Human Lp,gm,0,53,,low,Noisy Human Lp: nearest GM voice (Voice Oohs)
+394,Ravoid Lp,gen,,,,low,noise/loop texture: synthesise
+395,Hyper Lp,gen,,,,low,noise/loop texture: synthesise
+396,Beef Lp,gen,,,,low,noise/loop texture: synthesise
+397,Texture Lp,gen,,,,low,noise/loop texture: synthesise
+398,MMBass Lp,gen,,,,low,noise/loop texture: synthesise
+399,Syn PWM Cyc,gen,,,,med,single cycle: pwm
+400,Harpsichord Cyc,gen,,,,low,"single cycle, Harpsichord Cyc"
+401,Digi EP Cyc,gen,,,,low,"single cycle, Digi EP Cyc"
+402,Soft EP Cyc,gen,,,,low,"single cycle, Soft EP Cyc"
+403,EP Bell Cyc,gen,,,,low,"single cycle, EP Bell Cyc"
+404,Bandneon Cyc,gen,,,,low,"single cycle, Bandneon Cyc"
+405,Chees Organ Cyc,gen,,,,low,"single cycle, Chees Organ Cyc"
+406,Organ Cyc,gen,,,,low,"single cycle, Organ Cyc"
+407,Oboe Cyc,gen,,,,low,"single cycle, Oboe Cyc"
+408,Crystal Cyc,gen,,,,low,"single cycle, Crystal Cyc"
+409,Syn Bass1 Cyc,gen,,,,low,"single cycle, Syn Bass1 Cyc"
+410,Syn Bass2 Cyc,gen,,,,low,"single cycle, Syn Bass2 Cyc"
+411,Syn Saw1 Cyc,gen,,,,med,single cycle: saw
+412,Syn Saw2 Cyc,gen,,,,med,single cycle: saw
+413,Syn Saw3 Cyc,gen,,,,med,single cycle: saw
+414,Syn Square1 Cyc,gen,,,,med,single cycle: square
+415,Syn Square2 Cyc,gen,,,,med,single cycle: square
+416,Syn Pulse1 Cyc,gen,,,,med,single cycle: pulse
+417,Syn Pulse2 Cyc,gen,,,,med,single cycle: pulse
+418,Pulse20 Cyc,gen,,,,med,single cycle: pulse 20%
+419,Pulse40 Cyc,gen,,,,med,single cycle: pulse 40%
+420,Nasty Cyc,gen,,,,med,single cycle: nasty
+421,Mini Max Cyc,gen,,,,med,single cycle: minimax
+422,Bottom Cyc,gen,,,,med,single cycle: bottom
+423,Over 64th harm 1 Cyc,gen,,,,med,single cycle: harmonics 64
+424,Over 64th harm 2 Cyc,gen,,,,med,single cycle: harmonics 64
+425,BD Attack,none,,,,low,short attack transient: pick from GM or record later
+426,Ana Kick,none,,,,none,no equivalent
+427,SD Attack,none,,,,low,short attack transient: pick from GM or record later
+428,Tiny SD Attack,none,,,,low,short attack transient: pick from GM or record later
+429,Ana SD Attack,none,,,,low,short attack transient: pick from GM or record later
+430,Ana HHO Attack,none,,,,low,short attack transient: pick from GM or record later
+431,Elec Tom Attack,none,,,,low,short attack transient: pick from GM or record later
+432,Ride Cup Attack,none,,,,low,short attack transient: pick from GM or record later
+433,Cowbell Attack,none,,,,low,short attack transient: pick from GM or record later
+434,Conga Attack,none,,,,low,short attack transient: pick from GM or record later
+435,Conga Muted Attack,none,,,,low,short attack transient: pick from GM or record later
+436,Agogo Attack,none,,,,low,short attack transient: pick from GM or record later
+437,Castanet Attack,none,,,,low,short attack transient: pick from GM or record later
+438,Claves Attack,none,,,,low,short attack transient: pick from GM or record later
+439,Tambourine Attack,none,,,,low,short attack transient: pick from GM or record later
+440,Jingle Bell Attack,none,,,,low,short attack transient: pick from GM or record later
+441,BellTree Attack,none,,,,low,short attack transient: pick from GM or record later
+442,Window Chime Attack,none,,,,low,short attack transient: pick from GM or record later
+443,Atarigane Attack,none,,,,low,short attack transient: pick from GM or record later
+444,Rama Attack,none,,,,low,short attack transient: pick from GM or record later
+445,Udo Attack,none,,,,low,short attack transient: pick from GM or record later
+446,TablaNa Attack,none,,,,low,short attack transient: pick from GM or record later
+447,Voice Ou Attack,none,,,,low,short attack transient: pick from GM or record later
+448,HighQ Attack,none,,,,low,short attack transient: pick from GM or record later
+449,Super Q Attack,none,,,,low,short attack transient: pick from GM or record later
+450,Glass Attack,none,,,,low,short attack transient: pick from GM or record later
+451,Metal Attack,none,,,,low,short attack transient: pick from GM or record later
+452,Noise Attack,gen,,,,low,noise/loop texture: synthesise
+453,Pop Attack,none,,,,low,short attack transient: pick from GM or record later
+454,Crash Lp,gen,,,,low,noise/loop texture: synthesise
+455,Burner Lp,gen,,,,low,noise/loop texture: synthesise
+456,Jet Engine Lp,gen,,,,low,noise/loop texture: synthesise
+457,Omnibus Loop 1,gen,,,,low,noise/loop texture: synthesise
+458,Omnibus Loop 2,gen,,,,low,noise/loop texture: synthesise
+459,Omnibus Loop 3,gen,,,,low,noise/loop texture: synthesise
+460,Omnibus Loop 4,gen,,,,low,noise/loop texture: synthesise
+461,Omnibus Loop 5,gen,,,,low,noise/loop texture: synthesise
+462,Omnibus Loop 6,gen,,,,low,noise/loop texture: synthesise
+463,Omnibus Loop 7,gen,,,,low,noise/loop texture: synthesise
+464,Omnibus Loop 8,gen,,,,low,noise/loop texture: synthesise
