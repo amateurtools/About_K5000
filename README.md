@@ -2,7 +2,7 @@ Goals:
 
 :white_check_mark:create a plugin/standalone
 
-\u2610for all platforms
+\u2610 for all platforms
 
 Sounds close to the original.
 
