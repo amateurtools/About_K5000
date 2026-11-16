@@ -10,6 +10,10 @@ loads and exports presets and banks.
 
 sends sysex for programming a real Kawai K5000.
 
+move all the research stuff into a github folder called RESEARCH
+
+upload the working code that I already have, but didn't get around to it yet.
+
 current sound demo, needs a lot of work so don't get too excited yet:
 
 https://soundcloud.com/amateurtoolsdsp/amateurtools_k5000_hle_week2_p
