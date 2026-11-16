@@ -1,5 +1,7 @@
 Goals: 
 
+☑ research and probe and share results publicly
+
 ☑ create a plugin/standalone
 
 ☐ for all platforms (easy)
@@ -13,6 +15,8 @@ Goals:
 ☑ loads and exports presets and banks.
 
 ☑ sends sysex for programming a real Kawai K5000.
+
+☑ receive sysex for running the demo as a midi track in a daw.
 
 ☐ move all the research stuff into a github folder called RESEARCH (easy)
 
