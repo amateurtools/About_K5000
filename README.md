@@ -16,8 +16,6 @@ https://soundcloud.com/amateurtoolsdsp/amateurtools_k5000_hle_week2_p
 
 development stage gui stuff:
 
-[image]https://github.com/amateurtools/About_K5000/blob/main/screen1.jpg[/image]
-
-[image]https://github.com/amateurtools/About_K5000/blob/main/screen2.jpg[/image]
-
-[image]https://github.com/amateurtools/About_K5000/blob/main/screen3.jpg[/image]
+![Development GUI screenshot 1](screen1.jpg)
+![Development GUI screenshot 2](screen2.jpg)
+![Development GUI screenshot 3](screen3.jpg)
