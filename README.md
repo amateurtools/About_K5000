@@ -10,7 +10,7 @@ loads and exports presets and banks.
 
 sends sysex for programming a real Kawai K5000.
 
-current sound demo:
+current sound demo, needs a lot of work so don't get too excited yet:
 
 https://soundcloud.com/amateurtoolsdsp/amateurtools_k5000_hle_week2_p
 
