@@ -1,3 +1,5 @@
+This is maddeningly difficult by the way.
+
 Goals: 
 
 ☑ research and probe and share results publicly
