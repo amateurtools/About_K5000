@@ -1,30 +1,7 @@
-This is maddeningly difficult by the way.
+This is a High Level Emulation. No code from the original is in this.
+This means no roms, no proprietary PCM sounds. 
 
-Goals: 
-
-☑ research and probe and share results publicly
-
-☑ create a plugin/standalone
-
-☐ for all platforms (easy)
-
-☐ Sounds the same as the original. (hard)
-
-☑ does not require roms or copyrighted things.
-
-☐ create a usable GUI for this synth for the first time ever. (very hard)
-
-☑ loads and exports presets and banks.
-
-☑ sends sysex for programming a real Kawai K5000.
-
-☑ receive sysex for running the demo as a midi track in a daw.
-
-☐ move all the research stuff into a github folder called RESEARCH (easy)
-
-☐ upload the working code that I already have, but didn't get around to it yet. (easy)
-
-☑ current sound demo, needs a lot of work so don't get too excited yet:
+Today I'm thinking I'm Just going to release the plugin and standalone on Linux, not the source, cause I don't want to create more reasons for people to use win and osx.
 
 https://soundcloud.com/amateurtoolsdsp/amateurtools_k5000_hle_week2_p
 
